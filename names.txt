@@ -1,1 +1,1 @@
-["test","canyouseethis","PenguinBrowser","scratchbloxxxx","Epic_Penguin","Infinite Food (scrapped project)","PBS Update (load)"]
+["test","canyouseethis","PenguinBrowser","scratchbloxxxx","Epic_Penguin","Infinite Food (scrapped project)"]
